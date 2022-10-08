@@ -1,0 +1,8 @@
+/Binaries
+/Saved
+/Intermediate
+/.vs
+/Build
+*.sln
+*_BuiltData.uasset
+/Plugins
