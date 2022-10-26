@@ -6,3 +6,5 @@
 *.sln
 *_BuiltData.uasset
 /Plugins
+/Content/Sunset/Textures/Terrain/Terrain_CAO.uasset
+/Content/Sunset/Textures/Terrain/Terrain_NORMAL.uasset
